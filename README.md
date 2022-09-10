@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a full stack software developer. My passion is learning and contributing to development community. I am currently going through CS50, TheOdinProject, and freecodecamp coursework to expand my knowledge in the field. I am looking to collaborate on any java, website, or python projects.
+
 <!--
 **TonyRichie/TonyRichie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
